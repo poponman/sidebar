@@ -35,12 +35,12 @@ export const SidebarData = [
     },
     {
         title: "アップロード",
-        icon: <CloudUpload />,
+        icon: <CloudUploadIcon />,
         link: "/home" ,
     },
     {
         title: "詳細設定",
-        icon: <Settings />,
+        icon: <SettingsIcon />,
         link: "/home" ,
     },
 ]
