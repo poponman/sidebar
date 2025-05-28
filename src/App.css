@@ -57,10 +57,12 @@
 
 .SidebarIcon img {
   width: 100px;
+  background-color: white;
+  border-radius: 50%;
 }
 
-.SIdebarIconp {
-  color:whiete;
+.SidebarIcon p {
+  color:white;
   font-weight: 600;
   font-size: 13px;
 }
